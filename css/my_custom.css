@@ -1,0 +1,45 @@
+.home_text{
+    font-size: large;
+    position: relative;
+    margin-top: 200px;
+}
+
+.about_text{
+font-size: medium;
+position: relative;
+margin-left: 90px;
+margin-top : 38px;
+}
+
+#skill ul img{
+    position: relative;
+    margin-top: 50px;
+    padding-left: 20px;
+}
+
+.skill_images{
+    margin-top: 30px;
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.contact_images{
+    margin-top: 30px;
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.contact_images li{
+padding-left: 50px;
+}
+
+.contact_text{
+    font-size: 25px;
+    font-weight: bold;
+    position: relative;
+    margin-bottom: 15px;
+}
